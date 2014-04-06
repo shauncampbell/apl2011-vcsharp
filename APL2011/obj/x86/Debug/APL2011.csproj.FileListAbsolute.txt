@@ -1,0 +1,5 @@
+e:\documents\shaun\documents\visual studio 2010\Projects\APL2011\APL2011\bin\Debug\APL2011.exe
+e:\documents\shaun\documents\visual studio 2010\Projects\APL2011\APL2011\bin\Debug\APL2011.pdb
+e:\documents\shaun\documents\visual studio 2010\Projects\APL2011\APL2011\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\documents\shaun\documents\visual studio 2010\Projects\APL2011\APL2011\obj\x86\Debug\APL2011.exe
+e:\documents\shaun\documents\visual studio 2010\Projects\APL2011\APL2011\obj\x86\Debug\APL2011.pdb

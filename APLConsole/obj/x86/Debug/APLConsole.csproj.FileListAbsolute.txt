@@ -1,0 +1,7 @@
+E:\Shaun\Documents\Visual Studio 2010\Projects\APL2011\APLConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Shaun\Documents\Visual Studio 2010\Projects\APL2011\APLConsole\bin\Debug\APLConsole.exe
+E:\Shaun\Documents\Visual Studio 2010\Projects\APL2011\APLConsole\bin\Debug\APLConsole.pdb
+E:\Shaun\Documents\Visual Studio 2010\Projects\APL2011\APLConsole\bin\Debug\APLRuntime.dll
+E:\Shaun\Documents\Visual Studio 2010\Projects\APL2011\APLConsole\bin\Debug\APLRuntime.pdb
+E:\Shaun\Documents\Visual Studio 2010\Projects\APL2011\APLConsole\obj\x86\Debug\APLConsole.exe
+E:\Shaun\Documents\Visual Studio 2010\Projects\APL2011\APLConsole\obj\x86\Debug\APLConsole.pdb
